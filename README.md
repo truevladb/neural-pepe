@@ -2,8 +2,8 @@ Neural Pepe is an NFT art collectible project based on Binance Smart Chain and t
 
 Neural Pepes were generated using the StyleGAN2 generative adversarial network. The dataset consisted of over 7,000 different Pepe the Frog arts. The final collection includes models of different iterations to make the result more diverse. Each Neural Pepe NFT has a set of traits of different rarity. All traits were assigned using custom-made classifiers and then double-checked manually..
 
-Neural Pepe NFT contract
+**Neural Pepe NFT contract**
 https://bscscan.com/address/0x3c78B3066868C636c584a13Ec0a15b82e1E9511d
 
-AI token smart contract
+**AI token smart contract**
 https://bscscan.com/address/0x6d63C32fEb6cc5C7C45Cc4F236Cb80A4FD09AD1A
